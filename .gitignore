@@ -1,0 +1,38 @@
+# IntelliJ
+
+.idea/
+*.iml
+
+# Maven
+
+target/
+
+# Logs
+
+*.log
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Environment Files
+
+.env
+
+# Build
+
+out/
+
+# Temporary
+
+tmp/
+temp/
+
+# Java
+
+*.class
+
+# Generated
+
+dependency-reduced-pom.xml
